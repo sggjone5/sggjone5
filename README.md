@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sggjone5
-- 👀 I’m interested in ... Non-myopic approaches o sensing and surveying
+- 👀 I’m interested in ... Non-myopic approaches for sensing and surveying
 - 🌱 I’m currently learning ... basic principles of filtering
 - 💞️ I’m looking to collaborate on ... Stonesoup
 - 📫 How to reach me ... g.jones6@liverpool.ac.uk
